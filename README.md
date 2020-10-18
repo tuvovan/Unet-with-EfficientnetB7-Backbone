@@ -6,7 +6,7 @@ MOAI 2020 Body Morphometry AI Segmentation Online Challenge - 5th Solution
 - [References](#references)
 
 ## Network Structure
-This work used Unet with EfficientNetB7 as the backbone. Nothing was specially designed, I just follow the code provided by Segmentation [Models] (https://segmentation-models.readthedocs.io/en/latest/api.html#linknet)
+This work used Unet with EfficientNetB7 as the backbone. Nothing was specially designed, I just follow the code provided by Segmentation [Models](https://segmentation-models.readthedocs.io/en/latest/api.html#linknet)
 
 ## Getting Started
 
@@ -43,6 +43,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## References
 [1] MOAI 2020 Body Morphometry AI Segmentation Online Challenge - [link](https://www.kaggle.com/c/body-morphometry-for-sarcopenia/data)
+
 [2] Segmentation Models - [link](https://segmentation-models.readthedocs.io/en/latest/api.html#linknet)
 
 ## Acknowledgments
