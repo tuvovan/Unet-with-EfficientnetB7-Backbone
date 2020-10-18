@@ -1,8 +1,7 @@
-# ANLHDR Imaging
+# UEfficientNetB7 
 MOAI 2020 Body Morphometry AI Segmentation Online Challenge - 5th Solution
-![teaser](teaser/HDRI.png)
 ## Content
-- [Network Structure](#anl-hdri)
+- [Network Structure](#network-structure)
 - [Getting Started](#getting-tarted)
 - [References](#references)
 
