@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ### Training 
 - Preprocess
     - Download the [data](https://drive.google.com/file/d/1ji0D1r71jLMl8qoGgx2X03BXHLqHPEKw/view?usp=sharing) 
-    - Follow steps in the notebook to train, predict and post-process the outputs.
+    - Follow steps in the [notebook](https://github.com/tuvovan/Unet-with-EfficientnetB7-Backbone/blob/master/Body%20Morphometry.ipynb) to train, predict and post-process the outputs.
 
 #### Result
 Input            |  Predicted Output
