@@ -46,6 +46,8 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 [2] Segmentation Models - [link](https://segmentation-models.readthedocs.io/en/latest/api.html#linknet)
 
+[3] Nested Unet - Unet++ - [link](https://arxiv.org/abs/1807.10165)
+
 ## Acknowledgments
 - Any ideas on updating or misunderstanding, please send me an email: <vovantu.hust@gmail.com>
 - If you find this repo helpful, kindly give me a star.
